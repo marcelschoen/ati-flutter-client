@@ -1,0 +1,6 @@
+{
+  "appTitle": "ati_flutter_client",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
